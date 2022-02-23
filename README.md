@@ -1,4 +1,4 @@
-- 👋🏻 !Hola! soy Juan Pablo Bienvenido a mi github
+## 👋🏻 !Hola! soy Juan Pablo Bienvenido a mi github
 
 - Mi <a href="juanpabloromeropereira.es"> Web <a> donde tengo el curriculum y el portfolio.
   
