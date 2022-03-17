@@ -9,7 +9,7 @@
 - 🍯 Fermentador de hidromiel artesanal
 
 ## Estudios
-| Curso  | Finalizado  |
+| Curso  | ¿Finalizado?  |
 | :------------ |:---------------:|
 | [Bootcapm Bit Academy](https://www.bit.es/full-stack/)| Actualmente |
 | [Geeks Hubs Angular](https://geekshubsacademy.com/producto/frontend-angular/)| Actualmente |
