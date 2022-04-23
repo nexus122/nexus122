@@ -1,6 +1,6 @@
 # 👋🏻 !Hola! Soy Juan Pablo Bienvenido a mi github
 **Programador Frontend**
-Actualmente estoy estudiando en el [Bootcapm Bit Academy](https://www.bit.es/full-stack/) donde aprendemos para ser Fullstack y donde estamos dando actualmente **Vue**, tambien estoy estudiando a mi ritmo en [Geeks Hubs](https://geekshubsacademy.com/producto/frontend-angular/) Donde tratamos especificamente con el framework **Angular**
+Actualmente estoy estudiando en el [Bootcapm Bit Academy](https://www.bit.es/full-stack/) donde aprendemos para ser Fullstack y donde estamos dando actualmente **Vue**, tambien estoy estudiando a mi ritmo en [Geeks Hubs](https://geekshubsacademy.com/producto/frontend-angular/) donde tratamos especificamente con el framework **Angular**
 
 **6 Curiosidades sobre mi**
 -   Mi [Web](https://curriculum.juanpabloromeropereira.es) donde tengo el curriculum y el portfolio.
