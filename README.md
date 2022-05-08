@@ -1,4 +1,4 @@
-# 👋🏻 !Hola! Soy Juan Pablo Bienvenido a mi github
+# <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> Soy Juan Pablo bienvenido a mi perfil
 **Programador Frontend**
 Actualmente estoy estudiando en el [Bootcapm Bit Academy](https://www.bit.es/full-stack/) donde aprendemos para ser Fullstack y donde estamos dando actualmente **Vue**, tambien estoy estudiando a mi ritmo en [Geeks Hubs](https://geekshubsacademy.com/producto/frontend-angular/) donde tratamos especificamente con el framework **Angular**
 
