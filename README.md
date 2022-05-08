@@ -2,7 +2,7 @@
 
 <img src="https://i.ibb.co/kBsGN9Z/banner-Avatar.jpg" style="width: 100%"  alt="banner">
 
-## Programador Frontend
+## Desarollador Frontend
 Actualmente estoy estudiando en el [Bootcapm Bit Academy](https://www.bit.es/full-stack/) donde aprendemos para ser Fullstack y donde estamos dando actualmente **Vue**, tambien estoy estudiando a mi ritmo en [Geeks Hubs](https://geekshubsacademy.com/producto/frontend-angular/) donde tratamos especificamente con el framework **Angular**
 
 ## 6 Cosas sobre mi
