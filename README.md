@@ -1,7 +1,7 @@
 # 👋 Soy Juan Pablo bienvenido a mi perfil
 
 ## Desarollador Frontend
-Actualmente estoy estudiando en la Vueling University, un intensivo de dos meses sobre Typescript y Angular.
+Actualmente estoy trabajando en Vueling como desarollador Frontend
 
 ## 6 Cosas sobre mi
 -   Mi [Web](https://curriculum.juanpabloromeropereira.es) donde tengo el curriculum y el portfolio.
