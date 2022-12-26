@@ -1,7 +1,5 @@
 # 👋 Soy Juan Pablo bienvenido a mi perfil
 
-<img src="https://i.ibb.co/pzkRR6n/Sin-t-tulo-2.jpg" style="width: 100%"  alt="banner">
-
 ## Desarollador Frontend
 Actualmente estoy estudiando en la Vueling University, un intensivo de dos meses sobre Typescript y Angular.
 
