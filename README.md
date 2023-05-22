@@ -1,7 +1,7 @@
 # 👋 Soy Juan Pablo bienvenido a mi perfil
 
 ## Desarollador Frontend
-Actualmente estoy trabajando en Vueling como desarollador Frontend 🛩️
+Actualmente estoy trabajando en Vueling como desarollador 🛩️
 
 ## 6 Cosas sobre mi
 -   Mi [Web]([https://curriculum.juanpabloromeropereira.es](https://jp-curriculum.super.site/)) donde tengo el curriculum y el portfolio.
