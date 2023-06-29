@@ -1,14 +1,15 @@
-# 👋 Soy Juan Pablo bienvenido a mi perfil
+# 🖖 Soy Juan Pablo bienvenido a mi perfil
+Trabajo como desarollador en Vueling 🛩️
+- Programando en Angular y .Net
+  
+Hago proyectos personales en github.
+- [Mi_CV](https://jp-curriculum.super.site/)
+- [Mis_Proyectos](https://nexus122.github.io/personal-portfolio/)
 
-## Desarollador Frontend
-Actualmente estoy trabajando en Vueling como desarollador 🛩️
-
-## 6 Cosas sobre mi
--   Mi [Web]([https://curriculum.juanpabloromeropereira.es](https://jp-curriculum.super.site/)) donde tengo el curriculum y el portfolio.
--   👶🏻 Nacido en el 1995
--   🦾 Apasionado de la tecnología
+## Sobre mi
 -   📜 Lord de [Sealand](https://es.wikipedia.org/wiki/Principado_de_Sealand)
 -   🍯 Fermentador de hidromiel artesanal
+-   🤖 Aficionado a los videojuegos
 
 ### Donde puedes encontrarme:
 <p align="left">
@@ -21,6 +22,6 @@ Actualmente estoy trabajando en Vueling como desarollador 🛩️
 </p>
 
 ## DockerHub
-Tengo algunos proyectos subidos a [Docker Hub](https://hub.docker.com/u/jpromeropereira)
+[Docker Hub](https://hub.docker.com/u/jpromeropereira)
 - [Clon de la web del barça](https://hub.docker.com/r/jpromeropereira/futbol-club-barcelona-heroku-config)
 - [Servidor de tokens JWT](https://hub.docker.com/r/jpromeropereira/jwt-test-token)
