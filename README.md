@@ -20,7 +20,6 @@ Trabajo en **Vueling Airlines 🛩️**, desarrollando interfaces de usuario par
 - 🤓 Siempre aprendiendo sobre **Clean Code**, **RxJS**, y mejores prácticas en desarrollo web.  
 
 ## 🌐 Encuéntrame en:
-## 🌐 Encuéntrame en:
 **Desarrollo**  
 <a href="https://codepen.io/nexus122" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="CodePen" width="30" />
